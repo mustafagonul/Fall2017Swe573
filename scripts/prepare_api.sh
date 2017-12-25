@@ -3,8 +3,8 @@
 # example of using arguments to a script
 service mongod stop
 sudo apt install git
-git clone https://github.com/574BandOfBrothers/memoriae-api
-cd ./memoriae-api
+git clone https://github.com/mustafagonul/githubnize-api
+cd ./githubnize-api
 cp ./src/config/environments/environments.json.example ./src/config/environments/development.json
 cp ./src/config/environments/environments.json.example ./src/config/environments/test.json
 cp ./src/config/environments/environments.json.example ./src/config/environments/production.json

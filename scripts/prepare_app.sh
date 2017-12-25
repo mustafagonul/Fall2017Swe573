@@ -1,7 +1,7 @@
 #!/bin/bash -x
 
 sudo apt install git
-git clone https://github.com/574BandOfBrothers/memoriae-app
+git clone https://github.com/mustafagonul/githubnize-app
 cd ./memoriae-app
 sudo apt install npm
 npm install
