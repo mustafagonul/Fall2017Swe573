@@ -2,7 +2,6 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mustafagonul/Fall2017Swe573/master/LICENSE)
 
-This is the repo for the Boun SWE573 Fall 2017 project: Githubnize. 
 
 There are 2 other repositories for this project for development. Documentation and tools, issue and project management is covered on current repository.
 
