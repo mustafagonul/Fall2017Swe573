@@ -18,6 +18,6 @@ There are 2 other repositories for this project for development. Documentation a
 
 | Repository | Link                                           | Explanation                                        |
 |------------|:----------------------------------------------:|:--------------------------------------------------:|
-| Management | https://github.com/mustafagonul/Fall2017Swe573 | Current Repo, Management, Documentation, Utilities |
+| Management | https://github.com/mustafagonul/githubnize     | Current Repo, Management, Documentation, Utilities |
 | API        | https://github.com/mustafagonul/githubnize-api | Backend of Githubnize. Development                 |
 | APP        | https://github.com/mustafagonul/githubnize-app | Frontend of Githubnize. Development                |
